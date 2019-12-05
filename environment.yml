@@ -1,6 +1,7 @@
 name: code-breakers
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - numpy
   - scipy
