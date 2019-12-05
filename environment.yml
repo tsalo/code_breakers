@@ -1,11 +1,9 @@
 name: code-breakers
 channels:
   - conda-forge
-  - pip
 dependencies:
   - numpy
   - scipy
   - matplotlib
   - seaborn
   - pandas
-  - ptitprince
